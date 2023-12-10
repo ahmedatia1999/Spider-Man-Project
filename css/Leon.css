@@ -141,14 +141,14 @@ body {
 /* End Header */
 /* start landing section */
 .landing {
-  background-image: url(/image/wallpaperflare.com_wallpaper\ \(5\).jpg);
+  background-image: url(/image/wallpaperLand.jpg);
   background-size: cover;
   height: calc(100vh - 64px);
   position: relative;
 }
 @media (max-width: 991px) {
   .landing {
-    background-image: url(/image/wallpaperflare.com_wallpaper\ \(5\).jpg-222.jpg);
+    background-image: url(/image/wallpaperMopile.jpg);
   }
 }
 .landing .intro-text {
